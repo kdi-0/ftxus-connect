@@ -1,0 +1,1 @@
+/usr/bin/c++ "CMakeFiles/silly-ray.dir/main.cpp.o" "CMakeFiles/silly-ray.dir/adder.cpp.o" -o silly-ray 

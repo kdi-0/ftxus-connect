@@ -1,0 +1,3 @@
+/home/eris/ftxsocket/out/build/CMakeFiles/silly-ray.dir
+/home/eris/ftxsocket/out/build/CMakeFiles/edit_cache.dir
+/home/eris/ftxsocket/out/build/CMakeFiles/rebuild_cache.dir
